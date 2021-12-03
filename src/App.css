@@ -1,0 +1,19 @@
+
+.create{
+    color:black;
+    
+}
+
+#mainTitle{
+position:absolute;
+ left: 65%;
+ top: 10%;
+}
+
+body{
+    background-color: beige;
+}
+h1{
+    font-family: SoleilBold;
+}
+

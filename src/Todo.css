@@ -1,0 +1,58 @@
+
+p:nth-child(odd) {
+    background: #f9f9f9;
+  } /**found help on youtube**/
+p:hover{
+    background:#DCDCDC	;
+}
+
+
+.checkX{
+    position: absolute;
+    left:76%;
+    height: 30px;
+    width: 30px;
+    background-color: white;
+}
+
+.todoCompleted{
+    position: absolute;
+    left:76%;
+    height: 30px;
+    width: 30px;
+    background-color: green;
+}
+
+.deleteX{
+    position:absolute;
+    left:72%;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+}
+
+.editX{
+    position:absolute;
+    font-size:12px;
+    padding-top:10px;
+    left:70%;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+    padding:10px 10px 10px 10px;
+    border-right: 1px solid black;
+    border-left:1px solid black;
+    border-bottom:1px solid black;
+    margin-bottom: 0px;
+}
+
+#toDoList{
+    padding-right:0.5%;
+}
+
+button{
+    font-family: SoleilBold;
+    
+}
