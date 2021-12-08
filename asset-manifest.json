@@ -1,13 +1,13 @@
 {
-  "main.css": "/09-todo-react-tomandjonny/static/css/main.2bcf5444.chunk.css",
-  "main.js": "/09-todo-react-tomandjonny/static/js/main.7e6df002.chunk.js",
-  "main.js.map": "/09-todo-react-tomandjonny/static/js/main.7e6df002.chunk.js.map",
-  "static/js/1.3277a95b.chunk.js": "/09-todo-react-tomandjonny/static/js/1.3277a95b.chunk.js",
-  "static/js/1.3277a95b.chunk.js.map": "/09-todo-react-tomandjonny/static/js/1.3277a95b.chunk.js.map",
-  "runtime~main.js": "/09-todo-react-tomandjonny/static/js/runtime~main.a27944bb.js",
-  "runtime~main.js.map": "/09-todo-react-tomandjonny/static/js/runtime~main.a27944bb.js.map",
-  "static/css/main.2bcf5444.chunk.css.map": "/09-todo-react-tomandjonny/static/css/main.2bcf5444.chunk.css.map",
-  "index.html": "/09-todo-react-tomandjonny/index.html",
-  "precache-manifest.a3f548d6656a3a4fba539da2277f8920.js": "/09-todo-react-tomandjonny/precache-manifest.a3f548d6656a3a4fba539da2277f8920.js",
-  "service-worker.js": "/09-todo-react-tomandjonny/service-worker.js"
+  "main.css": "/09-todo-react-group-tomandjonny/static/css/main.2bcf5444.chunk.css",
+  "main.js": "/09-todo-react-group-tomandjonny/static/js/main.7e6df002.chunk.js",
+  "main.js.map": "/09-todo-react-group-tomandjonny/static/js/main.7e6df002.chunk.js.map",
+  "static/js/1.3277a95b.chunk.js": "/09-todo-react-group-tomandjonny/static/js/1.3277a95b.chunk.js",
+  "static/js/1.3277a95b.chunk.js.map": "/09-todo-react-group-tomandjonny/static/js/1.3277a95b.chunk.js.map",
+  "runtime~main.js": "/09-todo-react-group-tomandjonny/static/js/runtime~main.3593b0ab.js",
+  "runtime~main.js.map": "/09-todo-react-group-tomandjonny/static/js/runtime~main.3593b0ab.js.map",
+  "static/css/main.2bcf5444.chunk.css.map": "/09-todo-react-group-tomandjonny/static/css/main.2bcf5444.chunk.css.map",
+  "index.html": "/09-todo-react-group-tomandjonny/index.html",
+  "precache-manifest.5bf4b6ba0480e8e221bfaa087a4b6ed3.js": "/09-todo-react-group-tomandjonny/precache-manifest.5bf4b6ba0480e8e221bfaa087a4b6ed3.js",
+  "service-worker.js": "/09-todo-react-group-tomandjonny/service-worker.js"
 }
